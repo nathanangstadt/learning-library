@@ -4,7 +4,7 @@
 
 This introduction covers the complete "parent" workshop. The objectives are written to cover all of the labs included in the workshop.
 
-Estimated Lab Time: n minutes -- this estimate is for the entire workshop - it is the sum of the estimates provided for each of the labs included in the workshop.
+Estimated Lab Time: 15 minutes -- this estimate is for the entire workshop - it is the sum of the estimates provided for each of the labs included in the workshop.
 
 ### About Product/Technology
 Enter background information here....
