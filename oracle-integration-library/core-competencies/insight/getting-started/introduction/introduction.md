@@ -31,7 +31,7 @@ Watch our short video that explains some of the key features in Oracle Integrati
 
 In this workshop, you will:
 
-* Learn more about the Oracle Integration key capabilities.
+* Learn about the Oracle Integration key capabilities.
 * Gain a conceptual understanding of Application Integration.
 * Install, activate, test, and monitor a pre-built integration.
 * Use the native integration composition tools to create and update an integration flow.
